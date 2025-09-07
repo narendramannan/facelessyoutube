@@ -1,3 +1,8 @@
-openai>=0.27.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
 gTTS>=2.3.2
 moviepy>=1.0.3
+Pillow>=10.0.0
+requests>=2.31.0
+python-pexels>=1.1.0
+pydub>=0.25.1
